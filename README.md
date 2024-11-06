@@ -10,7 +10,7 @@
 
 **講演者紹介：** Webアプリケーションつんつん職人。CTFプレイヤー、バグハンターとして活動。SECCON CTFの運営メンバ、AVTOKYO2020および2023の登壇、DEF CON CTF Finalsへ出場。GoogleやFirefoxを含む多数のWebサイトやソフトウェアの脆弱性を発見し報告している。
 
-**[PDF (日本語)](AVTOKYO2024_ja.pdf)**  
+**[PDF (英語)](AVTOKYO2024_en.pdf)**  
 
 ## Mozilla Firefox 0-day: Browser Side-Channel Attack to Leak Installed Applications
 **Abstract :** This presentation focuses on a 0-day vulnerability in Mozilla Firefox, which is a browser side-channel attack leveraging the URL protocol handler. 
